@@ -1,5 +1,7 @@
 # nycscertweb
-This is a collection of work from our summer program.
+# Old-time coding!!!
+![](https://user-images.githubusercontent.com/96295230/180852314-3e805bd5-782a-42f1-b577-ef3aebd49211.png)
+
 
 
 
@@ -11,3 +13,6 @@ This is a collection of work from our summer program.
 
 # Methods
 [Live Code Activity](https://github.com/hunter-teacher-cert/cohort-3-summer-work-ehawkins18/blob/master/methods/02_livecode_java.txt)
+
+
+
