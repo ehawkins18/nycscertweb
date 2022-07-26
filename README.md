@@ -1,6 +1,5 @@
 # nycscertweb
-# Old-time coding!!!
-![](https://user-images.githubusercontent.com/96295230/180852314-3e805bd5-782a-42f1-b577-ef3aebd49211.png)
+# Summer 2022 Coursework
 
 
 
